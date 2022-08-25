@@ -1,1 +1,1 @@
-# quiz-js
+# Quiz for my girlfriend (JS)
